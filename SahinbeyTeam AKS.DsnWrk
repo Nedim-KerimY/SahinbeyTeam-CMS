@@ -1,2 +1,12 @@
 [ProjectGroup]
 Version=1.0
+[Project1]
+ProjectPath=Libraries\Mini-B USB\Mini-B USB.LibPkg
+[Project2]
+ProjectPath=Libraries\TLV1117-33IDCYR\TLV1117-33IDCYR.LibPkg
+[Project3]
+ProjectPath=Libraries\KMR621NGLFS\KMR621NGLFS.LibPkg
+[Project4]
+ProjectPath=Libraries\KF350\KF350.LibPkg
+[Project5]
+ProjectPath=Libraries\L-KLS1-TF-003-H1.85-R\L-KLS1-TF-003-H1.85-R.LibPkg
