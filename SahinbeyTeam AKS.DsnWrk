@@ -14,3 +14,5 @@ ProjectPath=Libraries\Passives\Passives.LibPkg
 ProjectPath=Libraries\L-KLS1-229-5FB-B-R\L-KLS1-229-5FB-B-R.LibPkg
 [Project7]
 ProjectPath=Libraries\STM32F072C8T6\STM32F072C8T6.LibPkg
+[Project8]
+ProjectPath=Libraries\E32-433T20D\E32-433T20D.LibPkg
