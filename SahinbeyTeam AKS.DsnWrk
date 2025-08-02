@@ -1,12 +1,16 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Libraries\Mini-B USB\Mini-B USB.LibPkg
-[Project2]
 ProjectPath=Libraries\TLV1117-33IDCYR\TLV1117-33IDCYR.LibPkg
-[Project3]
+[Project2]
 ProjectPath=Libraries\KMR621NGLFS\KMR621NGLFS.LibPkg
-[Project4]
+[Project3]
 ProjectPath=Libraries\KF350\KF350.LibPkg
-[Project5]
+[Project4]
 ProjectPath=Libraries\L-KLS1-TF-003-H1.85-R\L-KLS1-TF-003-H1.85-R.LibPkg
+[Project5]
+ProjectPath=Libraries\Passives\Passives.LibPkg
+[Project6]
+ProjectPath=Libraries\L-KLS1-229-5FB-B-R\L-KLS1-229-5FB-B-R.LibPkg
+[Project7]
+ProjectPath=Libraries\STM32F072C8T6\STM32F072C8T6.LibPkg
